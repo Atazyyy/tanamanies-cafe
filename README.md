@@ -1,6 +1,7 @@
-# Kopi Kilau — Company Profile Kedai Kopi
+# Tanamanies Cafe — Company Profile Kedai Kopi
 
-Landing page company profile untuk kedai kopi fiktif di Bandung.
+Landing page company profile untuk kedai kopi fiktif di Bandung yang
+dipenuhi tanaman.
 Proyek ini adalah **concept demo** untuk portofolio jasa pembuatan web —
 seluruh merek, konten, dan testimoni bersifat fiktif.
 

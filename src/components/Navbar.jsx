@@ -11,7 +11,7 @@ const LINKS = [
 ];
 
 export const WA_LINK =
-  "https://wa.me/6281234567890?text=Halo%20Kopi%20Kilau!%20Saya%20mau%20tanya-tanya%20dulu%20boleh%3F";
+  "https://wa.me/6281234567890?text=Halo%20Tanamanies%20Cafe!%20Saya%20mau%20tanya-tanya%20dulu%20boleh%3F";
 
 export default function Navbar() {
   const [scrolled, setScrolled] = useState(false);
@@ -35,7 +35,7 @@ export default function Navbar() {
       <nav className="mx-auto flex max-w-6xl items-center justify-between px-5 py-4 md:px-8">
         <a href="#" className="flex items-center gap-2">
           <Coffee className="h-5 w-5 text-caramel" />
-          <span className="font-display text-xl italic">Kopi Kilau</span>
+          <span className="font-display text-xl italic">Tanamanies Cafe</span>
         </a>
 
         <div className="hidden items-center gap-8 md:flex">

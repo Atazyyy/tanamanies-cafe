@@ -47,7 +47,7 @@ export default function Visit() {
                 </div>
                 <div className="flex gap-4">
                   <Instagram className="mt-0.5 h-5 w-5 shrink-0 text-caramel" />
-                  <p className="text-sm text-cream/75">@kopikilau — tag kami di fotomu!</p>
+                  <p className="text-sm text-cream/75">@tanamanies.cafe — tag kami di fotomu!</p>
                 </div>
               </div>
             </div>
@@ -77,7 +77,7 @@ export default function Visit() {
 
         <Reveal delay={0.1} className="min-h-[320px]">
           <iframe
-            title="Lokasi Kopi Kilau di Bandung"
+            title="Lokasi Tanamanies Cafe di Bandung"
             src="https://www.google.com/maps?q=Jl.%20Progo,%20Bandung&output=embed"
             className="h-full min-h-[320px] w-full rounded-2xl border-0 grayscale-[35%]"
             loading="lazy"

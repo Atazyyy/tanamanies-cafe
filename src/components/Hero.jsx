@@ -80,7 +80,7 @@ export default function Hero() {
           </div>
           <div className="flex items-center gap-3 py-4 sm:py-5 sm:pl-6">
             <Instagram className="h-4 w-4 shrink-0 text-caramel" />
-            <p className="text-sm text-cream/80">@kopikilau</p>
+            <p className="text-sm text-cream/80">@tanamanies.cafe</p>
           </div>
         </div>
       </div>

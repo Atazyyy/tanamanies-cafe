@@ -42,10 +42,11 @@ export default function About() {
 
           <Reveal delay={0.1}>
             <p className="mt-6 leading-relaxed text-cream/70">
-              Kopi Kilau lahir dari sebuah keyakinan sederhana: kopi terbaik
-              lahir dari proses yang tidak terburu-buru. Kami bekerja sama
-              langsung dengan petani di Gayo, Kintamani, dan Toraja, lalu
-              memanggang setiap biji sendiri di dapur kami setiap minggu.
+              Tanamanies Cafe lahir dari sebuah keyakinan sederhana: kopi
+              terbaik lahir dari proses yang tidak terburu-buru. Di ruang
+              kami yang dipenuhi tanaman rindang, kami bekerja sama langsung
+              dengan petani di Gayo, Kintamani, dan Toraja, lalu memanggang
+              setiap biji sendiri di dapur kami setiap minggu.
             </p>
             <p className="mt-4 leading-relaxed text-cream/70">
               Setiap cangkir yang kami sajikan adalah cara kami menghargai

@@ -4,7 +4,7 @@ import Reveal from "./Reveal";
 
 const MENU = {
   Kopi: [
-    { name: "Kopi Susu Kilau", desc: "Signature kami — espresso, susu segar, gula aren rumahan", price: "22K" },
+    { name: "Kopi Susu Tanamanies", desc: "Signature kami — espresso, susu segar, gula aren rumahan", price: "22K" },
     { name: "Es Kopi Aren", desc: "Klasik yang selalu benar, manisnya pas", price: "24K" },
     { name: "Americano", desc: "Double shot, air panas. Bersih dan tegas", price: "20K" },
     { name: "Cappuccino", desc: "Rasio klasik 1:1:1 dengan latte art", price: "24K" },

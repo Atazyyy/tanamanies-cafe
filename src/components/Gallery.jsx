@@ -42,7 +42,7 @@ export default function Gallery() {
             Galeri
           </p>
           <h2 className="mt-4 max-w-lg font-display text-4xl font-medium leading-tight md:text-5xl">
-            Sehari di <em className="text-caramel">Kopi Kilau</em>
+            Sehari di <em className="text-caramel">Tanamanies</em>
           </h2>
         </Reveal>
 

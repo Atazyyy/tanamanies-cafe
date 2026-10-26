@@ -9,11 +9,11 @@ export default function Footer() {
           <div>
             <a href="#" className="flex items-center gap-2">
               <Coffee className="h-5 w-5 text-caramel" />
-              <span className="font-display text-2xl italic">Kopi Kilau</span>
+              <span className="font-display text-2xl italic">Tanamanies Cafe</span>
             </a>
             <p className="mt-3 max-w-xs text-sm leading-relaxed text-cream/50">
-              Kedai kopi kecil di Bandung. Biji Nusantara, dipanggang sendiri,
-              diseduh dengan hati.
+              Kedai kopi dipenuhi tanaman di Bandung. Biji Nusantara,
+              dipanggang sendiri, diseduh dengan hati.
             </p>
           </div>
 
@@ -41,7 +41,7 @@ export default function Footer() {
                 </li>
                 <li>
                   <a href="#" className="flex items-center gap-1.5 hover:text-cream">
-                    <Instagram className="h-3.5 w-3.5" /> @kopikilau
+                    <Instagram className="h-3.5 w-3.5" /> @tanamanies.cafe
                   </a>
                 </li>
               </ul>
@@ -50,7 +50,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-12 flex flex-col items-start justify-between gap-3 border-t border-cream/10 pt-6 text-xs text-cream/40 sm:flex-row sm:items-center">
-          <p>© 2026 Kopi Kilau. Seluruh merek dan konten bersifat fiktif.</p>
+          <p>© 2026 Tanamanies Cafe. Seluruh merek dan konten bersifat fiktif.</p>
           <p className="flex items-center gap-1.5">
             Concept demo — dibuat oleh{" "}
             <a
