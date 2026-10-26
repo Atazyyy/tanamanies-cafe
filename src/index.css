@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Fraunces", ui-serif, Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+
+  --color-ink: #16100b;
+  --color-coal: #201710;
+  --color-cream: #f4ecdf;
+  --color-paper: #ece1cf;
+  --color-latte: #c9a887;
+  --color-caramel: #c98b5e;
+  --color-ember: #a15c2f;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-ink);
+}
+
+::selection {
+  background-color: var(--color-caramel);
+  color: var(--color-ink);
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-ink);
+}
+::-webkit-scrollbar-thumb {
+  background: #3a2b1e;
+  border-radius: 8px;
+}
+
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee {
+  animation: marquee 30s linear infinite;
+}
+
+/* titik-titik penghubung nama menu ke harga */
+.leader {
+  flex: 1;
+  min-width: 1.5rem;
+  border-bottom: 2px dotted color-mix(in srgb, currentColor 30%, transparent);
+  margin: 0 0.75rem;
+  transform: translateY(-5px);
+}
